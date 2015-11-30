@@ -1,0 +1,28 @@
+name: davethompson.ca
+favicon: null
+layout_spectrum: 0.6508306311443448
+typography_spectrum: 0.7676185679156333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24717790517024696
+  lightness: 0.7663563494570553
+  saturation: 0.06189980008639395
+  rhythmicContrast: 0.05355102871544659
+purpose: []
