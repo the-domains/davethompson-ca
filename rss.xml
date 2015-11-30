@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dave Thompson]]></title>
+        <description><![CDATA[Dave Thompson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 02:41:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bio]]></title>
+            <description><![CDATA[<article><h1>Bio</h1><p>Dave Thompson began playing guitar at 13 and studied Jazz Composition with Herb Pomeroy at the Berklee College of Music in Boston. He has worked in concert halls, festivals, summer resorts, clubs, musical theatre, radio and TV, as well as on many CDs as a sideman, producer or arranger. Recent work includes tours with Juno-winners Kellylee Evans and Susan Aglukark, and with various artists at the Waterloo Jazz Room, Registry Theatre and other venues. Dave was also fortunate to open for George Benson, Richard Bona, Chris Botti and others as a member of Kellylee Evans’ group.</p></article>]]></description>
+            <link>undefinedbio/index.html</link>
+            <guid isPermaLink="false">98a168c8-140b-4c4e-b14e-cf2a54249e16</guid>
+            <pubDate>Mon, 30 Nov 2015 02:40:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
