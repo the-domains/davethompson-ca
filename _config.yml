@@ -1,5 +1,8 @@
+name: davethompson.ca
+favicon: null
+layout_spectrum: 0.9833512
+typography_spectrum: 0.6074114
 title: Dave Thompson
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7148228
-  brandStrength: 0.75
-  lightness: 0.4462943
   brandColors:
     - '#ae7200'
     - '#120e10'
     - '#603f0c'
     - '#352b0d'
     - '#da9c3c'
-  rhythmicContrast: 0.4989259
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: davethompson.ca
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6074114
-layout_spectrum: 0.9833512
+  brandStrength: 0.8125
+  lightness: 0.4462943
+  saturation: 0.7148228
+  rhythmicContrast: 0.75
+purpose: []
