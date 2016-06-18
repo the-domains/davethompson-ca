@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.1875
+  saturation: 1
   brandStrength: 1
-  rhythmicContrast: 1
+  lightness: 1
   brandColors:
     - '#ae7200'
     - '#120e10'
     - '#603f0c'
     - '#352b0d'
     - '#da9c3c'
-  lightness: 0.625
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: davethompson.ca
 favicon: null
+name: davethompson.ca
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.01664876
-layout_spectrum: 0.9833512
+typography_spectrum: 0.7406015
+layout_spectrum: 0
