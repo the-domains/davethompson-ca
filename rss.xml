@@ -4,7 +4,7 @@
         <description><![CDATA[Dave Thompson]]></description>
         <link>https://thegrid.ai/davethompson-ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 22:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 22:44:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davethompson-ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Biography]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/davethompson-ca/bio/index.html</link>
             <guid isPermaLink="false">98a168c8-140b-4c4e-b14e-cf2a54249e16</guid>
             <pubDate>Fri, 12 Aug 2016 22:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bowowowow]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/020f2307-a1a2-4707-b89f-ed18ca2b3216.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/davethompson-ca/the-bork-is-a-picture-about-dogs-talking-to-each-other-becau/index.html</link>
+            <guid isPermaLink="false">30e13753-a3cd-4bcb-9a32-a6d121bb8dc6</guid>
+            <pubDate>Fri, 12 Aug 2016 22:44:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
