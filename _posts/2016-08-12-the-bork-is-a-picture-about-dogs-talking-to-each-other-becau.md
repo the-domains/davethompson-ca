@@ -5,16 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Bork is a picture about dogs talking to each other because they can.
-datePublished: '2016-08-12T22:35:11.858Z'
-dateModified: '2016-08-12T22:34:13.224Z'
+datePublished: '2016-08-12T22:39:40.533Z'
+dateModified: '2016-08-12T22:39:19.429Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
 sourcePath: >-
   _posts/2016-08-12-the-bork-is-a-picture-about-dogs-talking-to-each-other-becau.md
 authors: []
 publisher: {}
-starred: true
+starred: false
 url: the-bork-is-a-picture-about-dogs-talking-to-each-other-becau/index.html
 _type: Article
 
