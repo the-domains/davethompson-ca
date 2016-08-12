@@ -1,4 +1,4 @@
-name: davethompson.ca
+name: Dave Thompson
 favicon: null
 layout_spectrum: 0.2367
 typography_spectrum: 0.7406015
@@ -34,8 +34,8 @@ color:
     - '#603f0c'
     - '#352b0d'
     - '#da9c3c'
-  brandStrength: 0.6875
-  lightness: 0.5625
-  saturation: 0.625
-  rhythmicContrast: 0.75
+  brandStrength: 0.625
+  lightness: 0.875
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
