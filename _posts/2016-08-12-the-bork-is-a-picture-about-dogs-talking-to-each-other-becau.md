@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Bork is a picture about dogs talking to each other because they can.
-datePublished: '2016-08-12T22:48:17.063Z'
-dateModified: '2016-08-12T22:47:52.026Z'
+datePublished: '2016-08-12T22:48:57.280Z'
+dateModified: '2016-08-12T22:48:43.156Z'
 title: ''
 author:
   - name: ''
