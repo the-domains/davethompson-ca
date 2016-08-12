@@ -4,21 +4,21 @@
         <description><![CDATA[Dave Thompson]]></description>
         <link>https://thegrid.ai/davethompson-ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 22:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 22:33:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davethompson-ca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/020f2307-a1a2-4707-b89f-ed18ca2b3216.jpg">]]></description>
+            <link>https://thegrid.ai/davethompson-ca/the-bork-is-a-picture-about-dogs-talking-to-each-other-becau/index.html</link>
+            <guid isPermaLink="false">30e13753-a3cd-4bcb-9a32-a6d121bb8dc6</guid>
+            <pubDate>Fri, 12 Aug 2016 22:33:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bio]]></title>
             <description><![CDATA[<p>Dave Thompson began guitar at age 13 with lessons at a local music store. Guitar quickly became an obsession over that next summer, and Dave bang playing in garage bands, high-school combos. Along with hours of self-study, Dave took lessons with Bob McFee (jazz) and Tibor Puskas (classical). Eventually Dave learned harmony and arranging from Jim Howard, and that experience led to studying with Herb Pomeroy and Ken Pullig at the Berklee College of Music in Boston where he graduated with a B. Mus. in Jazz Composition. </p>]]></description>
             <link>https://thegrid.ai/davethompson-ca/bio/index.html</link>
             <guid isPermaLink="false">98a168c8-140b-4c4e-b14e-cf2a54249e16</guid>
             <pubDate>Fri, 05 Aug 2016 21:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/020f2307-a1a2-4707-b89f-ed18ca2b3216.jpg">]]></description>
-            <link>https://thegrid.ai/davethompson-ca/the-bork-is-a-picture-about-dogs-talking-to-each-other-becau/index.html</link>
-            <guid isPermaLink="false">30e13753-a3cd-4bcb-9a32-a6d121bb8dc6</guid>
-            <pubDate>Fri, 12 Aug 2016 22:30:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
