@@ -1,8 +1,30 @@
-name: Dave Thompson
-favicon: null
-layout_spectrum: 0.2367
 typography_spectrum: 0.7406015
-title: Dave Thompson
+color:
+  brandColors:
+    - '#ae7200'
+    - '#120e10'
+    - '#603f0c'
+    - '#352b0d'
+    - '#da9c3c'
+  brandStrength: 0.625
+  lightness: 0.875
+  saturation: 0.125
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2367
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Dave Thompson
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ae7200'
-    - '#120e10'
-    - '#603f0c'
-    - '#352b0d'
-    - '#da9c3c'
-  brandStrength: 0.625
-  lightness: 0.875
-  saturation: 0.125
-  rhythmicContrast: 1
+title: Dave Thompson
+description: writer.player.maker
 purpose: []
