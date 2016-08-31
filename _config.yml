@@ -25,12 +25,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Facebook
-    url: 'http://www.facebook.com/davethompson.ca/'
-    type: external
   - name: Biography
     id: 98a168c8-140b-4c4e-b14e-cf2a54249e16
     type: content
+  - name: Facebook
+    url: 'http://www.facebook.com/davethompson.ca/'
+    type: external
 favicon: null
 collections:
   - index:
