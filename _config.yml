@@ -33,6 +33,9 @@ navigation:
   - name: Facebook
     url: 'http://www.facebook.com/davethompson.ca/'
     type: external
+  - name: Twitter
+    url: 'http://twitter.com/davethompson'
+    type: external
 favicon: null
 collections:
   - index:
