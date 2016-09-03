@@ -1,4 +1,3 @@
-layout_spectrum: 0.7563820218201727
 typography_spectrum: 0.6490478473715484
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7563820218201727
 analytics:
   google: null
   facebook: null
@@ -50,5 +50,5 @@ collections:
       format: rss
       number: 10
 title: Dave Thompson
-description: writer.player.maker
+description: writer.player.teacher.maker
 purpose: []
