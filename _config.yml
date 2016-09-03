@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Dave Thompson
 name: Dave Thompson
 cta:
   domain: null
