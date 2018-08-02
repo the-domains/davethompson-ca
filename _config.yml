@@ -1,40 +1,39 @@
-typography_spectrum: 0.6490478473715484
+layout_spectrum: 0.502836960600689
+typography_spectrum: 0.9300156128592789
 color:
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  brandStrength: 0.2657468933612108
-  lightness: 0.32313303044065833
-  saturation: 0.9288298380561173
-  rhythmicContrast: 0.6729093994945288
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.18138858256861567
+  lightness: 0.5593686571810395
+  saturation: 0.2510175744537264
+  rhythmicContrast: 0.8115420481190085
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7563820218201727
 analytics:
   google: null
   facebook: null
   twitter: null
 author:
-  name: Dave Thompson
+  name: Dave
+  email: guitardave67@icloud.com
+logo: null
 name: Dave Thompson
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: Biography
+  - name: Bio
     id: 98a168c8-140b-4c4e-b14e-cf2a54249e16
     type: content
-  - name: Facebook
-    url: 'http://www.facebook.com/davethompson.ca/'
-    type: external
   - name: Twitter
-    url: 'http://twitter.com/davethompson'
+    url: 'https://twitter.com/davethompson'
     type: external
 favicon: null
 collections:
@@ -50,5 +49,35 @@ collections:
       format: rss
       number: 10
 title: Dave Thompson
-description: writer.player.teacher.maker.
-purpose: []
+description: writer.player.teacher.maker.leader.
+purpose:
+  - type: contact
+    url: 'mailto:davethompsonca67@gmail.com'
+    label: Contact me
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9474d440-5303-4529-8680-3b88d7d4583c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9474d440-5303-4529-8680-3b88d7d4583c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'http://thegrid.ai/davethompson'
+github: true
